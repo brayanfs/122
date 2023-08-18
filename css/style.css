@@ -1,0 +1,31 @@
+h1 {
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: underline;
+    background-color: cadetblue;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: xx-large;
+  }
+  li {
+    text-decoration: none;
+    color: blueviolet;
+    padding: 5px;  
+  
+  }
+  a {
+      text-decoration: none ;
+      color: blueviolet;
+  }
+  body {
+      background-color: rgba(146, 213, 245, 0.842);
+  }
+  img {
+      width: 5rem;
+  }
+  table {
+      padding: 1rem;
+      align-items: center;
+      text-align: center;
+      border-color: crimson;
+  }
